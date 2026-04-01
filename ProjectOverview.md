@@ -25,6 +25,7 @@ This project was developed for the CS281 course and simulates a travel agency pl
 ## Technologies Used
 - Python
 - Jupyter Notebook
+- SQLite (SQL database)
 
 ## Notes
 This project focuses on system logic, user operations, and platform workflow design.
